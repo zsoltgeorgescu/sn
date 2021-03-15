@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 12:00:54</sys_created_on>
+        <sys_data_policy display_value="Sets the Short Description field to mandatory">d0c8b69b07b22010776bfbbf7c1ed0a1</sys_data_policy>
+        <sys_id>6cc8b69b07b22010776bfbbf7c1ed0a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="NeedIt" source="x_153776_needit">3e08f21b07b22010776bfbbf7c1ed067</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">3e08f21b07b22010776bfbbf7c1ed067</sys_scope>
+        <sys_update_name>sys_data_policy_rule_6cc8b69b07b22010776bfbbf7c1ed0a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 12:00:54</sys_updated_on>
+        <table>x_153776_needit_needit</table>
+    </sys_data_policy_rule>
+</record_update>
